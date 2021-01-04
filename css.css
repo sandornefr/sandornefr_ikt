@@ -1,0 +1,33 @@
+body h1 {
+	font-size: 20px;
+	margin-left: 80px;
+	font-weight: bold;
+}
+.padding_top_bottom_20_px{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.padding_bottom_20_px{
+	padding-bottom:20px;
+}
+.style1 {
+	margin-left: 20px;
+}
+.style2 {
+	margin-left: 20px;
+	color: #C0C0C0;
+}
+.padding_top_bottom_5_px{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+body img {
+	margin-left: 70px;
+}
+div {
+	margin-left: 80px;
+	padding-top: 20px;
+}
+.container {
+	margin-left: 80px;
+}
